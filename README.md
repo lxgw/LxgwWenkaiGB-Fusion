@@ -1,5 +1,5 @@
 > [!NOTE]
-本项目不再维护，请移步[「霞鹜文楷 GB」](https://github.com/lxgw/LxgwWenkaiGB)。
+由于「霞鹜文楷 GB」原字体将基本区和扩展 A 区补全，本项目现已归档，请移步[「霞鹜文楷 GB」](https://github.com/lxgw/LxgwWenkaiGB)。
 
 # LXGW WenKai GB Fusion </br>霞鹜文楷 GB 融合
 「霞鹜文楷 GB」与「霞鹜文楷」（原版完整版）的合并字体。
